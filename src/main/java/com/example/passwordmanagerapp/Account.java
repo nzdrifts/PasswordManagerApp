@@ -1,5 +1,9 @@
 package com.example.passwordmanagerapp;
 
+/*
+    This class holds info for an account
+ */
+
 public class Account {
 
     String domain;
